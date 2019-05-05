@@ -1,46 +1,121 @@
+実装（じっそう）        ; implementation
+設計 （せっけい）       ; design/architecture
+体験版 (たいけんばん）  ; trial version (of software)
+バータ版　（ばん）      ; beta version (of software)
+技術 (ぎじゅつ）        ; technology
+機能 (きのう）          ;  function
+開発 (かいはつ）        ; development
+開発者 (かいはつしゃ）  ; developer
+開発環境（かいはつかんきょう） ; development environment
+利用者 (りようしゃ） ; user
+管理(かんり） ; manage (a system  etc.)
+納品 (のうひん）; delivery
+残業（ざんぎょう）; overtime
+入門（にゅうもん） ; primer (when you begin learning something)
+設定（せってい） ; setting(s)
+作成（さくせい） ; compose/create (a list  an email  a game  etc.)
+起動  (きどう）; startup (a computer etc.)
+再起動 （さいきどう）; restart (a computer  etc.)
+画面 (がめん)   ; screen
+企画（きかく） ; project  plan  planning
+企画書 (きかくしょ）; project plan document
+出力（しゅつりょく） ;output
+解説書　（かいせつしょ） ; manual (a book or other document that describes how something works)
+依存性（いぞんせい） ; dependency (a DLL  library  etc.)
+実行　（じっこう） ; run/execute
+関数　（かんすう） ; function (i.e. void doStuff(int x))
+引数　（ひきすう）; argument  parameter (of a function)
+配列　（はいれつ）; array (like my_array[30])
+形式　（けいしき）; format (of a file  etc.)
+拡張子　（かくちょうし） ; file extension
+担当者　（たんとうしゃ） ; person in charge of something (a project  etc.)
+見積もり　（みつもり） ; an estimate (for a project’s cost  etc.)
+改善　（かいぜん）; improvement
+情報　（じょうほう） ; information
+条件（じょうけん） ; condition
+規模　（きぼ） ; scale (of a project or plan)
+仕様書　（しようしょ）; specifications document
+保守（ほしゅ）; maintenance  maintain
+機器（きき）; equipment
+費用（ひよう） ; expense
+処理（しょり） ; process (like do a calculation  etc.)
+修正（しゅうせい） ; edit
+要求（ようきゅう） ; demand  request (from a customer  etc.)
+運用 (うんよう） ; operations (of a data center  etc.)
+ネットワーク　; network
+ハードウエア ; hardware
+コンパイル ; compile
+ソフト (short for ソフトウェア) ; software
+データベース　; database
+コンピューター言語 (げんご） ; programming language (C C++ Java  etc.)
+プログラミング ; programming
+ファイル ; file
+デバッグ ; debug
+ログイン名 ; login name
+パスワード ; password
+ログアウト; log out
+端末 (たんまつ)/　ターミナル;terminal
+テンプレート/雛形 (ひながた); template
+ディレクトリ/書庫 (しょこ);directory
+拡張現実  (かくちょうげんじつ); augmented reality  AR
+投資家 (とうしか); investor
+静的 (せいてき); static
+継承 (けいしょう); inheritance  succession  accession
+動的 (どうてき); dynamic  kinetic
+振る舞い (ふるまい); behavior  behaviour  conduct
+処理系依存 (しょりけいいぞん); implementation-dependent
+国際規格 (こくさいきかく); international standard
+定義 (ていぎ); definition
+範囲 (はんい); extent  scope  sphere  range  span
+実装 (じっそう); package  implementation  mounting  insertion (of equipment)
+整数 (せいすう); integer
+正数 (せいすう); positive number
+拡張 (かくちょう); expansion  extension  enlargement  escape  ESC
+疎結合 (そけつごう); loosely-coupled
+説明書 (せつめいしょ); (printed) instructions
+密結合 (みつけつごう); tightly-coupled
+密結合システム (みつけつごうシステム); tightly coupled system
+標準 (ひょうじゅん); standard  level  norm
+通信 (つうしん); correspondence  communication  transmission  news  signal  telecommunications
+複雑 (ふくざつ); complex  complicated  mixed (feelings)
+提供 (ていきょう); offer  tender  program sponsoring  programme sponsoring  furnishing  provisioning  supply
+構造 (こうぞう); structure  construction
+機能 (きのう); function  facility  faculty  feature
+実行 (じっこう); practice  practising  performance  execution (e.g. program) (programme)  realization  realisation  implementation
+状態 (じょうたい); current status  condition  situation  circumstances  state
+管理 (かんり); control  management (e.g. of a business)
+遷移 (せんい); transition
+仕様 (しよう); way  method  means  resource  remedy- (technical) specification
+標準化 (ひょうじゅんか); standardization  standardisation
+貢献 (こうけん); contribution (furthering a goal or cause)  services (to a cause)
+新機能 (しんきのう); new functionality  new feature
+整数型 (せいすうがた); integer type
+無限 (むげん); infinity  infinitude  eternity- infinite  limitless
+製造 (せいぞう); manufacture  production
+開発 (かいはつ); development  exploitation
+再起動 (さいきどう); restart  reboot
+削除 (さくじょ); elimination  cancellation  deletion  erasure  DEL (key)
+技術 (ぎじゅつ); technology  engineering- technique  skill- art  craft
+飾り (かざり); decoration
+送料 (そうりょう); postage  carriage  shipping charge
+自力 (じりき); by oneself  self-made
+独学 (どくがく); self-education  self-instruction  self-study
+綴り (つづり); spelling- orthography- patching  binding
+勉強会 (べんきょうかい); study group  study meeting
+型 (かた); model  type (e.g. of machine  goods  etc.)- type  style  pattern- mold (mould)  template  model- kata (standard form of a movement  posture  etc. in martial arts  sport  etc.)- form (i.e. customary procedure)- size (i.e. clothing  shoes)- (taxonomical) form
+改善 (かいぜん); improvement- kaizen (Japanese business philosophy of continuous improvement)
+開発者 (かいはつしゃ); developer
+開発元 (かいはつもと); developer  (software) development agency
+技術者 (ぎじゅつしゃ); engineer  technical expert  technician  craftsperson
+エンジニア; engineer
+会議 (かいぎ); meeting  conference  session  assembly  council  convention  congress
+ルビー; ruby- ruby character  small hiragana or katakana readings of kanji usually above or to the side of the kanji  (esp. used by printers and in ref. to printed material)- Ruby (programming language)
+ジャバスクリプト; JavaScript
+サーバ; server
+サーバ側 (サーバがわ); server-side
+クライアント側 (クライアントがわ); client-side
+クライアント側アプリケーション (クライアントがわアプリケーション); client-side application
+アプリ; app  application
+ベンチャー企業 (ベンチャーきぎょう); start-up company  venture business
+複数 (ふくすう); several  plural  plurality  multiple
 
-    実装（じっそう）- implementation
-    設計 （せっけい）- design/architecture
-    体験版 (たいけんばん） – trial version (of software)
-    バータ版　（ばん）- beta version (of software)
-    技術 (ぎじゅつ） – technology
-    機能 (きのう）-  function
-    開発 (かいはつ）- development
-    開発者 (かいはつしゃ） – developer
-    開発環境（かいはつかんきょう） – development environment
-    利用者 (りようしゃ） – user
-    構造 (こうぞう) – structure
-    管理(かんり） – manage (a system, etc.)
-    納品 (のうひん）- delivery
-    残業（ざんぎょう）- overtime
-    入門（にゅうもん） – primer (when you begin learning something)
-    設定（せってい） – setting(s)
-    作成（さくせい） – compose/create (a list, an email, a game, etc.)
-    起動  (きどう）- startup (a computer,etc.)
-    再起動 （さいきどう）- restart (a computer, etc.)
-    画面 (がめん) – screen
-    企画（きかく） – project, plan, planning
-    企画書 (きかくしょ）- project plan document
-    出力（しゅつりょく） – output
-    解説書　（かいせつしょ） – manual (a book or other document that describes how something works)
-    依存性（いぞんせい） – dependency (a DLL, library, etc.)
-    実行　（じっこう） – run/execute
-    関数　（かんすう） – function (i.e. void doStuff(int x))
-    引数　（ひきすう）- argument, parameter (of a function)
-    配列　（はいれつ）- array (like my_array[30])
-    形式　（けいしき）- format (of a file, etc.)
-    拡張子　（かくちょうし） – file extension
-    担当者　（たんとうしゃ） – person in charge of something (a project, etc.)
-    見積もり　（みつもり） – an estimate (for a project’s cost, etc.)
-    改善　（かいぜん）- improvement
-    情報　（じょうほう） – information
-    条件（じょうけん） – condition
-    規模　（きぼ） – scale (of a project or plan)
-    仕様書　（しようしょ）- specifications document
-    保守（ほしゅ）- maintenance, maintain
-    機器（きき）- equipment
-    費用（ひよう） – expense
-    処理（しょり） – process (like do a calculation, etc.)
-    修正（しゅうせい） – edit
-    要求（ようきゅう） – demand, request (from a customer, etc.)
-    運用 (うんよう） – operations (of a data center, etc.)
